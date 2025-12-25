@@ -8,7 +8,7 @@ ExamPal is a modern web application designed to help students prepare, practice,
 
 - 📝 **Quiz Engine** – Generate and take practice exams across multiple subjects.
 - 📊 **Progress Tracking** –  Get scores at the end of the exam practice, select practice mode (run-down versus run-up timer) and solution.
-- 🎯 **Better data savings** – cache questions for faster loading experience and optimize data usage.
+- 🎯 **Better data savings** – Cache questions for faster loading experience and optimize data usage.
 - 🌐 **Responsive Design** – Works seamlessly on desktop and mobile devices.
 - 🔒 **Secure Authentication** – User accounts with safe login and data storage.
 
