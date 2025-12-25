@@ -1,0 +1,12 @@
+{
+  "name": "ExamPal",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Umaru Bayoh",
+  "scripts": { 
+    "start": "parcel index.html", 
+    "build": "parcel build index.html" },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
