@@ -1,6 +1,6 @@
 # 📘 ExamPal
 
-ExamPal is a modern web application designed to help students prepare, practice, and excel in their exams. It provides multiple choice questions (MCP) with solution for public exams, namely: WASSCE, UTME, etc.
+ExamPal is a modern web application that implements the principle of SPA (Single Page Application) designed to help students prepare, practice, and excel in their exams. It provides multiple choice questions (MCP) with solution for public exams, namely: WASSCE, UTME, etc.
 
 ---
 
